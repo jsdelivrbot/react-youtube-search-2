@@ -1,7 +1,10 @@
-Simple Youtube search React app, made during Stephen Grider's Udemy course: https://www.udemy.com/react-redux/
+Simple Youtube search React app, made during [Stephen Grider's Udemy course](https://www.udemy.com/react-redux/)
 
-### Try it
+### Check it out
 
+Navigate to the [app on my website](http://brunobertomeu.com/react/youtube-search/)
+
+### Build it
 ```
 > git clone https://github.com/Noxxys/youtube-search.git
 > cd youtube-search
