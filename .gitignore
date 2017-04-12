@@ -1,8 +1,10 @@
-/node_modules
+node_modules/
 bundle.js
 npm-debug.log
 .DS_Store
+static/
+dist/
 
 # IntelliJ
 *.iml
-/.idea
+.idea/
