@@ -10,6 +10,8 @@ import SearchBar from './components/search-bar';
 import VideoList from './components/video-list';
 import VideoDetail from './components/video-detail';
 
+// this key is IP restricted
+// If you want to run this locally, create your own YouTube Data API key on https://console.developers.google.com/apis/credentials
 const API_KEY = 'AIzaSyAih7xet_f7kqJ7DUr7dYrk1Fxg5mnmT08';
 
 class App extends Component {
